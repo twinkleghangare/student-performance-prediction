@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R2
+"Linear Regression (A: with G1,G2)",1.598,2.351,0.73
+"Random Forest (A: with G1,G2)",1.173,1.967,0.811
+"Linear Regression (B: without G1,G2)",3.395,4.196,0.141
+"Random Forest (B: without G1,G2)",3.082,3.869,0.27
+"Tuned Random Forest (B: without G1,G2)",3.148,3.935,0.245
